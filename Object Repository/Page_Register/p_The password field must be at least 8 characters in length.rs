@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The password field must be at least 8 characters in length</name>
+   <tag></tag>
+   <elementGuidId>221ca870-fc90-4d61-aef9-eb43a473c78d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-mob']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#error-mob > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>53169d2d-f423-475b-aa72-8279f29c3df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password field must be at least 8 characters in length.</value>
+      <webElementGuid>8c078138-968a-4bbc-8a2b-bacee624b155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-mob&quot;)/p[1]</value>
+      <webElementGuid>4e1e2060-d4b5-4f6e-b1f8-f270636baf01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error-mob']/p</value>
+      <webElementGuid>2e59b982-7d9b-484a-96d2-73f88c0b8d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::p[2]</value>
+      <webElementGuid>de1c446b-51f7-4a13-81ab-8677d1bcea28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[1]/preceding::p[1]</value>
+      <webElementGuid>42214b6d-148f-481a-b89b-c6d9ee5731aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Kingdom'])[1]/preceding::p[1]</value>
+      <webElementGuid>0ea09b36-776b-4535-a0a1-4ccae774d372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The password field must be at least 8 characters in length.']/parent::*</value>
+      <webElementGuid>0241c2d6-3625-4043-b0cf-eaa16694fb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>d1dd25cc-f64c-4555-a706-e9d12fc42761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The password field must be at least 8 characters in length.' or . = 'The password field must be at least 8 characters in length.')]</value>
+      <webElementGuid>21230fb2-6365-4de9-b32a-762c4362e291</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
